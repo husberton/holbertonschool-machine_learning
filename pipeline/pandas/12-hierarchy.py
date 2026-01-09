@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
+""" Hierarchical concatenation """
 import pandas as pd
 index = __import__('10-index').index
-""" Hierarchy """
 
 
 def hierarchy(df1, df2):
