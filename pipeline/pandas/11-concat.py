@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import pandas as pd
 """ Concatenate to DataFrames """
+import pandas as pd
 index = __import__('10-index').index
 
 
