@@ -3,6 +3,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 def scatter():
     """ Set labels, title and plot in magenta """
     mean = [69, 0]
